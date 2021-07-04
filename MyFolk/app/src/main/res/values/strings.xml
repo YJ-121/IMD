@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">民俗知多少</string>
+    <string name="detail_anotherName">别称</string>
+    <string name="detail_data">时间</string>
+    <string name="detail_introduction">简介</string>
+    <string name="detail_custom">习俗</string>
+</resources>
